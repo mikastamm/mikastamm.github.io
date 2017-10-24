@@ -456,6 +456,16 @@ a:active
 
 @media (max-width: 480px) 
 {
+	.title-and-download-flex
+	{
+	margin-left: 0px;
+	}
+
+.title-container{
+
+	margin-left:0px
+}
+	
 	.title-container .text-title
 	{
 		font-size: 1.9em;
